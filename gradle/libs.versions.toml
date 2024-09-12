@@ -81,7 +81,7 @@ androidx-test-ext-junit = "1.2.1"
 appcompat = "1.7.0"
 material = "1.12.0"
 
-arturbosch-detekt = "1.23.6"
+arturbosch-detekt = "1.23.7"
 detekt-rules-compose = "1.3.0"
 
 suitetecsa-sdk-kotlin = "1.0.0-alpha04"
